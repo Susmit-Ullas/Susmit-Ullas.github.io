@@ -56,6 +56,10 @@ body {
   .middle-container {
     margin: 100px 0;
   }
+
+  .picture {
+    width: 10%;
+  }
   
   
   .bottom-container {
