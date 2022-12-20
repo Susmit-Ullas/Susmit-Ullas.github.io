@@ -1,10 +1,33 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
 body {
     color: #40514E;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
   }
-  
+
+  nav {
+    height: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  nav ul {
+    display: flex;
+    padding: 0 10px;
+    align-items: center;
+    list-style-type: none;
+    height: 70px;
+    background-color: black;
+  }
+
+  nav ul li {
+    padding: 0 10px;
+  }
+
+
   h1 {
     color: #f7fafa;
     font-size: 5.625rem;
