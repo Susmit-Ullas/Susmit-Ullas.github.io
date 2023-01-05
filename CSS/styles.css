@@ -54,7 +54,7 @@ body {
   }
   
   .top-container {
-    background-color: #0D3A33;
+    background-color: #126357;
     position: relative;
     padding-top: 100px;
   }
@@ -71,8 +71,8 @@ body {
   
   
   .bottom-container {
-    background-color: #66BFBF;
-    padding: 50px 0 20px;
+    background-color: #287a7a;
+    padding: 50px 20px;
   }
   
   
@@ -158,10 +158,14 @@ body {
   
   .footer-link {
     background-color: black;
-    padding: 3px;
-    border-radius: 3px;
+    padding: 8px 16px;
+    margin: 0 10px;
+    border-radius: 8px;
+    font-size: 1.5em;
   }
 
   .skills {
     padding-bottom: 1px;
   }
+
+  
