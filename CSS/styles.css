@@ -13,12 +13,13 @@ body
   font-family: 'Merriweather', serif;
 }
 
-  h1 {
-    color: #f7fafa;
-    font-size: 5.625rem;
-    margin: 50px auto 0 auto;
-    font-family: 'Sacramento', cursive;
-  }
+h1 
+{
+  color: #f7fafa;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
   
   h2 {
     color: #11999E;
